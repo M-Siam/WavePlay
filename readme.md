@@ -37,9 +37,10 @@ Inspired by real community feedback and surveys, this app is made for people who
 
 Click the link below to download the latest version of WavePlay:
 
-👉 [**Download WavePlay v1.0.0**](./waveplay-v1.0.0.apk)
+👉 [**Download WavePlay v1.0.0**](https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011396849/239ddd52-1147-440a-9aef-5fe821bf00ad?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250630T190604Z&X-Amz-Expires=1800&X-Amz-Signature=2519868490f82784d2c0a361f310a31c10960427bc37d0d5148200fc4eb5b21f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DWavePlay.apk&response-content-type=application%2Fvnd.android.package-archive)
 
-> Make sure to allow "Install from Unknown Sources" in your Android settings before installing the APK.
+> ⚠️ Make sure to enable **"Install from Unknown Sources"** in your Android settings to install the APK.
+
 
 ---
 
